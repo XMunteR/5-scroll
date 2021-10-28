@@ -1,0 +1,6 @@
+* {
+    /* Qué es el BOX MODEL? */
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
